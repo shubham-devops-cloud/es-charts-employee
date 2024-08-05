@@ -1,0 +1,4 @@
+apiVersion: v1
+name: es-employee
+description: A HELM Chart for employee microservice
+version: 0.0.1
